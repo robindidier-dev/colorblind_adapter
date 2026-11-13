@@ -1,0 +1,18 @@
+# Environment
+.cvp_venv/
+.venv/
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Data (do not commit datasets)
+data/
+NEON_Data/
+
+# IDE
+.idea/
+.vscode/
